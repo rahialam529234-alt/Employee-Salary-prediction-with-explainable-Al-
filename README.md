@@ -1,0 +1,2 @@
+# Employee-Salary-prediction-with-explainable-Al-
+Employee Salary Prediction with Explainable AI. ML model predicts salary using experience, education, performance, tenure &amp; age. Built with Python, Scikit-learn, Random Forest, SHAP &amp; LIME for transparency. Features dashboard with predicted salary, SHAP chart, feature importance &amp; bias detection ensuring fair, data-driven HR compensation decisions.
